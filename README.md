@@ -170,8 +170,8 @@ The System has instances of classes:
   + name - name of customer  
   + surname - surname of customer  
 
-### 3.2 Sequence diagram  
-# 3.2.1 Room reservation  
+# 3.2 Sequence diagram  
+### 3.2.1 Room reservation  
 ![image](https://github.com/werkovas/Project-Hotel/assets/90156886/bdd04a34-ed9d-4527-af6c-0ba27f34f3fe)
 
 Identified objects:  
@@ -186,7 +186,39 @@ Client begins interaction with reservation system by entering check-in and check
 To begin making reservation Client needs to choose room. Client adds chosen room to order. Then client could use his loyalty points as a discount. After that ReservationSystem decrease the total price of reservation. Client chooses payment method and ReservationSystem shows which payment is chosen by Client to validate.   
 Then Client makes payment which is validated by PaymentProcessing system. If payment was accepted ReservationSystem message to Client about success. Then ReservationSystem sends message to Client with payment confirmation.  
 
-# 3.2.2 Check reservation status  
-# 3.2.3 Cancel reservation  
-# 3.2.4 Update room status  
+### 3.2.2 Check reservation status  
+![image](https://github.com/werkovas/Project-Hotel/assets/90156886/3674ec8f-0c59-4809-82c2-a704ce48d680)
+
+Identified objects:  
+● ReservationSystem  
+
+Identified actors:  
+● Client  
+
+Diagram description:  
+Client sends message to ReservationSystem with request to show reservation status page. ReservationSystem returns requested page. If Client wants to see the previous reservation, he can send a message to show all reservations. If it happens ReservationSystem returns all reservations statuses.  
+
+### 3.2.3 Cancel reservation  
+![image](https://github.com/werkovas/Project-Hotel/assets/90156886/92dc88d5-5b11-4467-a7cb-853dfd077204)
+
+Identified objects:  
+● ReservationSystem  
+
+Identified actors:  
+● Client  
+
+Diagram description:  
+Client sends a message to ReservationSystem that he wants to see details of active reservation. ReservationSystem return details of reservation and show management options. Client sends a message that he wants to cancel that reservation and ReservationSystem cancels the reservation.  
+
+### 3.2.4 Update room status  
+![image](https://github.com/werkovas/Project-Hotel/assets/90156886/3164a2ee-d9f4-4856-b2c2-913e4f731680)
+
+Identified objects:  
+● ReservationSystem  
+
+Identified actors:  
+● Client  
+
+Diagram description:   
+Employee opens the room page. ReservationSystem shows room page with all informations about the room: equipment and relevant details. Employee edits selected room status. The room status can be rented, being cleaned, free.  
 
