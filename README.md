@@ -68,6 +68,7 @@ Reservation system for hotel
 ### 1.1.3.9 Employee: Select user account  
 ![image](https://github.com/werkovas/Project-Hotel/assets/90156886/8ddbbbb8-aab9-4e77-a282-1154010ea886)
 
+# 2.1 Activity diagrams
 
 ### 2.1.1 Client: Room reservation  
 ![image](https://github.com/werkovas/Project-Hotel/assets/90156886/5811ee02-196a-4631-9d83-d8f25e95a979)
