@@ -93,8 +93,8 @@ Reservation system for hotel
 ### 2.1.9 Employee: Select user account  
 ![image](https://github.com/werkovas/Project-Hotel/assets/90156886/667cafe5-9674-4490-862d-4b47cf6d00a2)
 
-## State diagrams
-2.2.1 Reservation  
+# State diagrams
+### 2.2.1 Reservation  
 ![image](https://github.com/werkovas/Project-Hotel/assets/90156886/e4678e3c-40cc-4196-a0ef-45c1d6880ba7)
 
 States description:
@@ -103,6 +103,6 @@ States description:
 ●	REJECTED - can be entered when payment for confirmed order is declined.  
 ●	FINISHED - can be entered when payment is confirmed.  
 
-2.2.2 Room
+### 2.2.2 Room
 
 
