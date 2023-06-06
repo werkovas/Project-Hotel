@@ -172,7 +172,7 @@ The System has instances of classes:
   + name - name of customer  
   + surname - surname of customer  
 
-# 3.2 Sequence diagram  
+# 3.2 Sequence diagrams  
 ### 3.2.1 Room reservation  
 ![image](https://github.com/werkovas/Project-Hotel/assets/90156886/bdd04a34-ed9d-4527-af6c-0ba27f34f3fe)
 
