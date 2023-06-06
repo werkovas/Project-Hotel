@@ -2,7 +2,8 @@
 Reservation system for hotel
 
 # Table of contents
-+ # 1. Requirements
++  1 Requirements
++  1.1 Use-Case diagram
 + [1.1.1 Actors](https://github.com/werkovas/Project-Hotel/blob/main/README.md#111-actors)
 + [1.1.2 Use-Case Diagram](https://github.com/werkovas/Project-Hotel/blob/main/README.md#112-use-case-diagram) 
    + [1.1.3.1 Client: Room reservation](https://github.com/werkovas/Project-Hotel/blob/main/README.md#1131-client-room-reservation)  
@@ -26,13 +27,16 @@ Reservation system for hotel
 + 2.2 State diagrams
 + 2.2.1 Reservation
 
+
+## 1. Requirements
+## 1.1 Use-Case diagram  
 ### 1.1.1. Actors  
 | Actor | Description |
 | :---:   | :---: |
 | Client | Application user renting a room.|
 | Employee | Application user managing reservations. Has the ability to change the status of the room, rent a room.|
 
-### 1.1.2 Use-Case Diagram  
+### 1.1.2 Diagram  
 ![image](https://github.com/werkovas/Project-Hotel/assets/90156886/381574e8-23c2-4e2e-9276-c45a098c3b86)
 
 ### 1.1.3.1 Client: Room reservation  
