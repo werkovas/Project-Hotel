@@ -29,11 +29,13 @@ Reservation system for hotel
 + [2.2 State diagrams](https://github.com/werkovas/Project-Hotel/blob/main/README.md#22-state-diagrams)
   + [2.2.1 Reservation](https://github.com/werkovas/Project-Hotel/blob/main/README.md#221-reservation)  
   + [2.2.2 Room](https://github.com/werkovas/Project-Hotel/blob/main/README.md#222-room)
-
-# 3.2.1 Room reservation
-# 3.2.2 Check reservation status
-# 3.2.3 Cancel reservation
-# 3.2.4 Update room status
++ Design documentation  
++ 3.1 Object diagram  
++ 3.2 Sequence diagrams  
+  + 3.2.1 Room reservation
+  + 3.2.2 Check reservation status
+  + 3.2.3 Cancel reservation
+  + 3.2.4 Update room status
 
 ## 1. Requirements
 ## 1.1 Use-Case diagram  
