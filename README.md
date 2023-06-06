@@ -9,7 +9,7 @@ Reservation system for hotel
 + [1.1.3.3 Client: Pay](https://github.com/werkovas/Project-Hotel/blob/main/README.md#1133-client-pay)  
 + [1.1.3.4 Client: Check reservation status](https://github.com/werkovas/Project-Hotel/blob/main/README.md#1134-client-check-reservation-status)  
 + [1.1.3.5 Client: Cancel reservation](https://github.com/werkovas/Project-Hotel/blob/main/README.md#1135-client-cancel-reservation)  
-+ [1.1.3.6 Employee: Check room properties](https://github.com/werkovas/Project-Hotel/blob/main/README.md#1136-check-room-properties)  
++ [1.1.3.6 Employee: Check room properties](https://github.com/werkovas/Project-Hotel/blob/main/README.md#1136-employee-check-room-properties)  
 + [1.1.3.7 Employee: Update room status](https://github.com/werkovas/Project-Hotel/blob/main/README.md#1137-employee-update-room-status)  
 + [1.1.3.8 Employee: Add loyalty points](https://github.com/werkovas/Project-Hotel/blob/main/README.md#1138-employee-add-loyalty-points)  
 + [1.1.3.9 Employee: Select user account](https://github.com/werkovas/Project-Hotel/blob/main/README.md#1139-employee-select-user-account)  
