@@ -22,7 +22,7 @@ Reservation system for hotel
 + [2.1.7 Employee: Update room status](https://github.com/werkovas/Project-Hotel/blob/main/README.md#217-employee-update-room-status)  
 + [2.1.8 Employee: Add loyalty points](https://github.com/werkovas/Project-Hotel/blob/main/README.md#218-employee-add-loyalty-points)  
 + [2.1.9 Employee: Select user account](https://github.com/werkovas/Project-Hotel/blob/main/README.md#219-employee-select-user-account)  
-
+## 2.2 State diagrams
 
 ### 1.1.1. Actors  
 | Actor | Description |
