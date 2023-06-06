@@ -30,6 +30,10 @@ Reservation system for hotel
   + [2.2.1 Reservation](https://github.com/werkovas/Project-Hotel/blob/main/README.md#221-reservation)  
   + [2.2.2 Room](https://github.com/werkovas/Project-Hotel/blob/main/README.md#222-room)
 
+# 3.2.1 Room reservation
+# 3.2.2 Check reservation status
+# 3.2.3 Cancel reservation
+# 3.2.4 Update room status
 
 ## 1. Requirements
 ## 1.1 Use-Case diagram  
@@ -165,3 +169,24 @@ The System has instances of classes:
 + customer1  
   + name - name of customer  
   + surname - surname of customer  
+
+### 3.2 Sequence diagram  
+# 3.2.1 Room reservation  
+![image](https://github.com/werkovas/Project-Hotel/assets/90156886/bdd04a34-ed9d-4527-af6c-0ba27f34f3fe)
+
+Identified objects:  
+•	ReservationSystem  
+•	PaymentProcessing  
+
+Identified actors:  
+•	Client  
+
+Diagram description:  
+Client begins interaction with reservation system by entering check-in and check-out date, number of persons to let the system check available rooms. Then the system shows matching rooms with their descriptions.  
+To begin making reservation Client needs to choose room. Client adds chosen room to order. Then client could use his loyalty points as a discount. After that ReservationSystem decrease the total price of reservation. Client chooses payment method and ReservationSystem shows which payment is chosen by Client to validate.   
+Then Client makes payment which is validated by PaymentProcessing system. If payment was accepted ReservationSystem message to Client about success. Then ReservationSystem sends message to Client with payment confirmation.  
+
+# 3.2.2 Check reservation status  
+# 3.2.3 Cancel reservation  
+# 3.2.4 Update room status  
+
