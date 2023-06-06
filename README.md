@@ -59,3 +59,36 @@ Reservation system for hotel
 
 ### 1.1.3.9 Employee: Select user account  
 ![image](https://github.com/werkovas/Project-Hotel/assets/90156886/8ddbbbb8-aab9-4e77-a282-1154010ea886)
+
+
+2.1.1 Client: Room reservation  
+![image](https://github.com/werkovas/Project-Hotel/assets/90156886/5811ee02-196a-4631-9d83-d8f25e95a979)
+
+2.1.2 Client: Use loyalty points  
+![image](https://github.com/werkovas/Project-Hotel/assets/90156886/3ca92b46-4b86-46ec-8355-f847484e49ca)
+
+2.1.3 Client: Pay  
+![image](https://github.com/werkovas/Project-Hotel/assets/90156886/00defc0e-2708-46bd-a69d-f8d18b72c633)
+
+
+2.1.4 Client: Check reservation status  
+![image](https://github.com/werkovas/Project-Hotel/assets/90156886/e5178d9a-bd44-4207-8d40-1137034d1a89)
+
+
+2.1.5 Client: Cancel reservation  
+![image](https://github.com/werkovas/Project-Hotel/assets/90156886/ebd1348c-c9f8-42af-8521-9ccaccc2400a)
+
+
+2.1.6 Employee: Check room properties  
+![image](https://github.com/werkovas/Project-Hotel/assets/90156886/825e8f16-144c-41d8-aeea-9baf72a798bd)
+
+
+2.1.7 Employee: Update room status  
+![image](https://github.com/werkovas/Project-Hotel/assets/90156886/1f0a7f82-f1f0-4551-90c8-32d041a1d3ad)
+
+2.1.8 Employee: Add loyalty points  
+![image](https://github.com/werkovas/Project-Hotel/assets/90156886/2cb27931-833a-4c5e-906b-9d6f2787001f)
+
+2.1.9 Employee: Select user account  
+![image](https://github.com/werkovas/Project-Hotel/assets/90156886/667cafe5-9674-4490-862d-4b47cf6d00a2)
+
