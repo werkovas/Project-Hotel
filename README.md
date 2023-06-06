@@ -139,29 +139,29 @@ System recognizes following classes:
 ![image](https://github.com/werkovas/Project-Hotel/assets/90156886/452edb75-3ebf-48a9-be80-c64419cb239d)
 
 The System has instances of classes:  
-●	room1  
- - roomNumber - number of reserved room  
- - price - unitary cost of room per day  
- - description - contains basic information about the room.  
- -	capacity - number of persons that can rent the room.  
- -	status - the state of the room  
-●	order1  
- -	totalPrice - total price for the order  
- -	numberOfPersons - number of persons that will rent the room.  
-●	reservation1  
- -	checkIn - reservation check-in date  
- -	checkOut - reservation check-out date  
- -	reservationStatus - the state of the reservation  
-●	points_cus1  
- -	amount - total amount of customer’s loyalty points  
- -	grantDate - date of converting points into the discount  
-●	paymentInformation1  
- -	type - type of payment method  
- -	date - date of payment  
- -	amount - total price paid for the order by customer.  
-●	user1  
- -	login - a unique sequence of characters used to identify a user and allow access to the application.  
- -	password - a string of characters that allows access to the application.  
-●	customer1  
- -	name - name of customer  
- -	surname - surname of customer  
++ room1  
++  roomNumber - number of reserved room  
++  price - unitary cost of room per day  
++  description - contains basic information about the room.  
++  capacity - number of persons that can rent the room.  
++  status - the state of the room  
++ order1  
++  totalPrice - total price for the order  
++  numberOfPersons - number of persons that will rent the room.  
++ reservation1  
++  checkIn - reservation check-in date  
++  checkOut - reservation check-out date  
++  reservationStatus - the state of the reservation  
++ points_cus1  
++  amount - total amount of customer’s loyalty points  
++  grantDate - date of converting points into the discount  
++ paymentInformation1  
++  type - type of payment method  
++  date - date of payment  
++  amount - total price paid for the order by customer.  
++ user1  
++  login - a unique sequence of characters used to identify a user and allow access to the application.  
++  password - a string of characters that allows access to the application.  
++ customer1  
++  name - name of customer  
++  surname - surname of customer  
