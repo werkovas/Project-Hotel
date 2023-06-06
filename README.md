@@ -23,6 +23,7 @@ Reservation system for hotel
 + [2.1.8 Employee: Add loyalty points](https://github.com/werkovas/Project-Hotel/blob/main/README.md#218-employee-add-loyalty-points)  
 + [2.1.9 Employee: Select user account](https://github.com/werkovas/Project-Hotel/blob/main/README.md#219-employee-select-user-account)  
 + 2.2 State diagrams
++ 2.2.1 Reservation
 
 ### 1.1.1. Actors  
 | Actor | Description |
@@ -91,4 +92,17 @@ Reservation system for hotel
 
 ### 2.1.9 Employee: Select user account  
 ![image](https://github.com/werkovas/Project-Hotel/assets/90156886/667cafe5-9674-4490-862d-4b47cf6d00a2)
+
+## State diagrams
+2.2.1 Reservation  
+![image](https://github.com/werkovas/Project-Hotel/assets/90156886/e4678e3c-40cc-4196-a0ef-45c1d6880ba7)
+
+States description:
+●	CONFIRMED - it is an initial order state. It means that the customer made an order.  
+●	CANCELED - can be entered when the customer cancels the reservation.   
+●	REJECTED - can be entered when payment for confirmed order is declined.  
+●	FINISHED - can be entered when payment is confirmed.  
+
+2.2.2 Room
+
 
