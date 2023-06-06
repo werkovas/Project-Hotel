@@ -2,7 +2,7 @@
 Reservation system for hotel
 
 # Table of contents
-+ [1.1.1 Actors](https://github.com/werkovas/Project-Hotel/edit/main/README.md#111-actors)  
++ [1.1.1 Actors](https://github.com/werkovas/Project-Hotel/actors
 + 1.1.2 Use-Case Diagram 
 + 1.1.3.1 Client: Room reservation  
 + 1.1.3.2 Client: Use loyalty points  
