@@ -29,7 +29,7 @@ Reservation system for hotel
 + [2.2 State diagrams](https://github.com/werkovas/Project-Hotel/blob/main/README.md#22-state-diagrams)
   + [2.2.1 Reservation](https://github.com/werkovas/Project-Hotel/blob/main/README.md#221-reservation)  
   + [2.2.2 Room](https://github.com/werkovas/Project-Hotel/blob/main/README.md#222-room)
-+ Design documentation  
++ 3 Design documentation  
 + 3.1 Object diagram  
 + 3.2 Sequence diagrams  
   + 3.2.1 Room reservation
