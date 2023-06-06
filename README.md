@@ -97,12 +97,17 @@ Reservation system for hotel
 ### 2.2.1 Reservation  
 ![image](https://github.com/werkovas/Project-Hotel/assets/90156886/e4678e3c-40cc-4196-a0ef-45c1d6880ba7)
 
-States description:
+States description:  
 ●	CONFIRMED - it is an initial order state. It means that the customer made an order.  
 ●	CANCELED - can be entered when the customer cancels the reservation.   
 ●	REJECTED - can be entered when payment for confirmed order is declined.  
 ●	FINISHED - can be entered when payment is confirmed.  
 
-### 2.2.2 Room
+### 2.2.2 Room  
+![image](https://github.com/werkovas/Project-Hotel/assets/90156886/1f250834-2437-4669-9cee-f0931aaada61)
 
+States description:  
+●	PREPARED - it is an initial room state. It means that the room is prepared for customer check-in.  
+●	IN USE - can be entered when the room is in use by a customer.  
+●	WAITING FOR CLEANING - can be entered when the room is messy after the customer left.   
 
