@@ -13,15 +13,15 @@ Reservation system for hotel
 + [1.1.3.7 Employee: Update room status](https://github.com/werkovas/Project-Hotel/blob/main/README.md#1137-employee-update-room-status)  
 + [1.1.3.8 Employee: Add loyalty points](https://github.com/werkovas/Project-Hotel/blob/main/README.md#1138-employee-add-loyalty-points)  
 + [1.1.3.9 Employee: Select user account](https://github.com/werkovas/Project-Hotel/blob/main/README.md#1139-employee-select-user-account)  
-+ [2.1.1 Client: Room reservation]  
-+ [2.1.2 Client: Use loyalty points]  
-+ [2.1.3 Client: Pay]  
-+ [2.1.4 Client: Check reservation status]
-+ [2.1.5 Client: Cancel reservation]  
-+ [2.1.6 Employee: Check room properties]  
-+ [2.1.7 Employee: Update room status]  
-+ [2.1.8 Employee: Add loyalty points]  
-+ [2.1.9 Employee: Select user account]  
++ [2.1.1 Client: Room reservation]((https://github.com/werkovas/Project-Hotel/blob/main/README.md#211-client-room-reservation)  
++ [2.1.2 Client: Use loyalty points](https://github.com/werkovas/Project-Hotel/blob/main/README.md#212-client-use-loyalty-points)   
++ [2.1.3 Client: Pay](https://github.com/werkovas/Project-Hotel/blob/main/README.md#213-client-pay)  
++ [2.1.4 Client: Check reservation status](https://github.com/werkovas/Project-Hotel/blob/main/README.md#214-client-check-reservation-status)
++ [2.1.5 Client: Cancel reservation](https://github.com/werkovas/Project-Hotel/blob/main/README.md#215-client-cancel-reservation)  
++ [2.1.6 Employee: Check room properties](https://github.com/werkovas/Project-Hotel/blob/main/README.md#216-employee-check-room-properties)  
++ [2.1.7 Employee: Update room status](https://github.com/werkovas/Project-Hotel/blob/main/README.md#217-employee-update-room-status)  
++ [2.1.8 Employee: Add loyalty points](https://github.com/werkovas/Project-Hotel/blob/main/README.md#218-employee-add-loyalty-points)  
++ [2.1.9 Employee: Select user account](https://github.com/werkovas/Project-Hotel/blob/main/README.md#219-employee-select-user-account)  
 
 
 ### 1.1.1. Actors  
