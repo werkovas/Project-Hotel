@@ -48,5 +48,5 @@ Reservation system for hotel
 ### 1.1.3.8 Employee: Add loyalty points  
 ![image](https://github.com/werkovas/Project-Hotel/assets/90156886/1f8fd343-3e50-43c3-a3e9-66922eb7e9b9)
 
-### 1.1.3.9 Employee: Select user accoount  
+### 1.1.3.9 Employee: Select user account  
 ![image](https://github.com/werkovas/Project-Hotel/assets/90156886/8ddbbbb8-aab9-4e77-a282-1154010ea886)
