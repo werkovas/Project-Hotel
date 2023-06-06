@@ -110,4 +110,17 @@ States description:
 ●	PREPARED - it is an initial room state. It means that the room is prepared for customer check-in.  
 ●	IN USE - can be entered when the room is in use by a customer.  
 ●	WAITING FOR CLEANING - can be entered when the room is messy after the customer left.   
+# 2.3 Class diagram  
+![image](https://github.com/werkovas/Project-Hotel/assets/90156886/e5bf83f7-0525-43e1-b682-d956a95f3fe6)
+
+System recognizes following classes:
+●	User - Contains user’s login information.
+●	Customer - Contains basic customer’s information.
+●	LoyaltyPoints - Represents loyalty points collected by customer.
+●	Order - It contains information about order connected to payment.
+●	PaymentInformation - Class contains information about payment for order managed by PaymentService.
+●	Reservation - It contains information about the room reservation.
+●	ReservationStatus - Status of reservation	, enumerable.
+●	Room - Represents information about room for reservation.
+●	RoomStatus - Status of room, enumerable.
 
